@@ -9,34 +9,34 @@
     font-size: 10px;
   }
   
-  body {
+  .layout {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: var(--Cream);
-    height: 100vh;
-    font-family: 'Montserrat', sans-serif;
     gap: 24px;
+    height: 100vh;
+    background-color: var(--Cream);
+    font-family: 'Montserrat', sans-serif;
   }
 
   /* MediaQueries */
-  @media only screen and (max-width: 693px) {
+  @media only screen and (max-width: 765px) {
     html {
       font-size: 9px;
-    }
-  }
-  @media only screen and (max-width: 630px) {
-    html {
-      font-size: 8.5px;
     }
   }
   @media only screen and (max-width: 600px) {
     html {
       font-size: 10px;
     }
+    
+    .layout {
+      height: 110vh;
+      margin: 20px 0;
+    }
   }
-  @media only screen and (max-width: 450px) {
+  @media only screen and (max-width: 400px) {
     html {
       font-size: 9px;
     }
