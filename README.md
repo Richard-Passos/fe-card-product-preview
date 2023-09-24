@@ -8,7 +8,7 @@ Practicing a card component.
 * HTML
 
 ## :rocket: Running the project
-To run the repository, it is recommended to clone the project.
+To run the repository, it is recommended to clone it.
 
 ## :handshake: Collaborators
 <table>
