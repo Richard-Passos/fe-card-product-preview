@@ -10,7 +10,7 @@ Practicing a card component.
 ## :rocket: Running the project
 To run the repository, it is recommended to clone it.
 
-## :handshake: Collaborators
+## :handshake: Team
 <table>
   <tr>
     <td align="center">
