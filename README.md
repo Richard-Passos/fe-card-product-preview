@@ -4,7 +4,6 @@
 Practicing a card component.
 
 ## :wrench: Technologies used
-* JavaScript
 * CSS
 * HTML
 
