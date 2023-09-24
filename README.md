@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: Card product preview</h1>
 
 ## :memo: Description
-Practicing a card component
+Practicing a card component.
 
 ## :wrench: Technologies used
 * JavaScript
