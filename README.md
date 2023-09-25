@@ -15,7 +15,7 @@ Practicing a card component.
 
 ## :rocket: Run project
 ```
-https://project-url.com
+https://richard-passos.github.io/fe-card-product-preview/
 ```
 
 <br>
